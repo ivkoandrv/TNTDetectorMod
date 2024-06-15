@@ -1,6 +1,7 @@
 ## TNT Detector Mod
 
 The TNT Detector mod is a Minecraft Fabric mod that notifies admins when a player sets fire to TNT with Flint and Steel or Fire Charge.
+Place jar file to your server's mods folder
 
 ### Features
 
