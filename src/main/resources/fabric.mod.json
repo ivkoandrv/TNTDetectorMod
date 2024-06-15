@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "tntmoddetector",
+  "version": "${version}",
+  "name": "TNTModDetector",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/ivkoandrv/TNTModDetector"
+  },
+  "license": "Apache-2.0",
+  "icon": "assets/tntmoddetector/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "org.ivkoandrv.tntmoddetector.TNTModDetector"
+    ]
+  },
+  "mixins": [
+    "tntmoddetector.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": ">=${loader_version}",
+    "minecraft": "${minecraft_version}"
+  }
+}
