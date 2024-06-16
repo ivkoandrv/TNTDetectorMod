@@ -11,8 +11,8 @@ Place jar file to your server's mods folder
 
 ### Requirements
 - Minecraft version: 1.20.1
-- Fabric Loader version: 0.14.11
-- Fabric API version: 0.83.0+1.20.1
+- Fabric Loader version: 0.15.3
+- Fabric API version: 0.91.0+1.20.1
 
 ### Usage
 
